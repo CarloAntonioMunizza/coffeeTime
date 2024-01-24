@@ -1,4 +1,4 @@
-package Lab1;
+package Labs.Lab1;
 import java.util.Scanner;
 
 public class Average{

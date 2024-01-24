@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e64b0049-cf5d-41dd-8ef1-699f043477b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coffeeTime.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/Average.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Lab1/Average.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Lab1/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/Grades.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Lab1/Grades.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Lab1/Grades.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,27 +34,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anthraxlemonaid\SWENG311\src\Labs\Lab1\Lab1" />
       <recent name="C:\Users\cam7134\IdeaProjects\coffeeTime\src\Lab1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Average">
-    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Average" />
+  <component name="RunManager" selected="Application.Diamond">
+    <configuration name="Average (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labs.Lab1.Average" />
       <module name="coffeeTime" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab1.*" />
+          <option name="PATTERN" value="Labs.Lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labs.Lab1.Lab1.Average" />
+      <module name="coffeeTime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Labs.Lab1.Lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Diamond" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Homework.HW1.Diamond" />
+      <module name="coffeeTime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Funnel" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Homework.HW1.Funnel" />
+      <module name="coffeeTime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Grades (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labs.Lab1.Grades" />
+      <module name="coffeeTime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Labs.Lab1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="Grades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Grades" />
+      <option name="MAIN_CLASS_NAME" value="Labs.Lab1.Lab1.Grades" />
       <module name="coffeeTime" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab1.*" />
+          <option name="PATTERN" value="Labs.Lab1.Lab1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,9 +113,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.HW1.Pyramid" />
+      <module name="coffeeTime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.HW1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Funnel" />
+      <item itemvalue="Application.Diamond" />
+      <item itemvalue="Application.Average" />
+      <item itemvalue="Application.Average (1)" />
+      <item itemvalue="Application.Grades" />
+      <item itemvalue="Application.Grades (1)" />
+      <item itemvalue="Application.Pyramid" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pyramid" />
         <item itemvalue="Application.Average" />
+        <item itemvalue="Application.Grades (1)" />
+        <item itemvalue="Application.Average (1)" />
         <item itemvalue="Application.Grades" />
       </list>
     </recent_temporary>
@@ -94,10 +154,23 @@
       <option name="presentableId" value="Default" />
       <updated>1705611396721</updated>
       <workItem from="1705611397777" duration="233000" />
+      <workItem from="1706069667786" duration="1926000" />
+      <workItem from="1706071717482" duration="8140000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
