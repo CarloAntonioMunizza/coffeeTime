@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e64b0049-cf5d-41dd-8ef1-699f043477b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Labs/Lab3/Lab5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coffeeTime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coffeeTime.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Lab3/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Lab3/Dealership.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -67,20 +69,7 @@
       <recent name="Homework.HW2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dealership">
-    <configuration name="Alphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.HW2.Alphabet.unit.Alphabet" />
-      <module name="coffeeTime" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.HW2.Alphabet.unit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab7">
     <configuration name="ArrowTest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Homework.HW2.Tests.Tester" />
       <module name="coffeeTime" />
@@ -95,35 +84,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Dealership" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Labs.Lab3.Dealership" />
+      <module name="coffeeTime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Diamond" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Homework.HW1.Diamond" />
       <module name="coffeeTime" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EvenNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.HW2.EvenNum.unit.EvenNum" />
-      <module name="coffeeTime" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.HW2.EvenNum.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.HW2.Fibonacci.Fibonacci" />
-      <module name="coffeeTime" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.HW2.Fibonacci.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -135,8 +105,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab7" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Labs.Lab7.Main" />
+      <module name="coffeeTime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labs.Lab7.Main" />
+      <module name="coffeeTime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Labs.Lab7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Labs.Lab4.Palindrome" />
+      <module name="coffeeTime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShapeMain" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Homework.HW2.Shape.unit.ShapeMain" />
+      <module name="coffeeTime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilder" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Labs.Lab4.BuilderDemo" />
       <module name="coffeeTime" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -213,10 +217,11 @@
       <item itemvalue="Application.Funnel" />
       <item itemvalue="Application.Diamond" />
       <item itemvalue="Application.ArrowTest" />
+      <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.StringBuilder" />
       <item itemvalue="Application.Dealership" />
-      <item itemvalue="Application.EvenNum" />
-      <item itemvalue="Application.Fibonacci" />
-      <item itemvalue="Application.Alphabet" />
+      <item itemvalue="Application.Lab7" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.ShapeTester" />
       <item itemvalue="JUnit.illegalChoice" />
       <item itemvalue="JUnit.illegalWidth" />
@@ -226,11 +231,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Alphabet" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Dealership" />
         <item itemvalue="JUnit.EvenNumTester" />
-        <item itemvalue="JUnit.AlphabetTester" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.EvenNum" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +256,15 @@
       <workItem from="1706752843723" duration="581000" />
       <workItem from="1706753567811" duration="3259000" />
       <workItem from="1706756883569" duration="1813000" />
-      <workItem from="1706811726517" duration="1134000" />
+      <workItem from="1706811726517" duration="1665000" />
+      <workItem from="1706922423129" duration="14000" />
+      <workItem from="1707407749284" duration="2281000" />
+      <workItem from="1708017696632" duration="2653000" />
+      <workItem from="1708050785627" duration="1429000" />
+      <workItem from="1709230864699" duration="2054000" />
+      <workItem from="1709232957538" duration="63000" />
+      <workItem from="1709233049729" duration="28000" />
+      <workItem from="1709233100994" duration="1163000" />
     </task>
     <servers />
   </component>
