@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e64b0049-cf5d-41dd-8ef1-699f043477b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Labs/Lab3/Lab5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/Lab3/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/Lab3/Dealership.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +66,7 @@
       <recent name="Homework.HW2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab7">
+  <component name="RunManager" selected="Application.EmployeeMain">
     <configuration name="ArrowTest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Homework.HW2.Tests.Tester" />
       <module name="coffeeTime" />
@@ -93,6 +90,13 @@
     </configuration>
     <configuration name="Diamond" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Homework.HW1.Diamond" />
+      <module name="coffeeTime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeMain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Homework.HW4.Main" />
       <module name="coffeeTime" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,6 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Morse" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Homework.HW3.MorseCode_Translator" />
+      <module name="coffeeTime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Palindrome" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Labs.Lab4.Palindrome" />
       <module name="coffeeTime" />
@@ -139,8 +150,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleEditor" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Homework.HW3.SimpleEditor" />
+      <module name="coffeeTime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringBuilder" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Labs.Lab4.BuilderDemo" />
+      <module name="coffeeTime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="anagram" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Homework.HW3.Anagram" />
       <module name="coffeeTime" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -221,6 +246,10 @@
       <item itemvalue="Application.StringBuilder" />
       <item itemvalue="Application.Dealership" />
       <item itemvalue="Application.Lab7" />
+      <item itemvalue="Application.Morse" />
+      <item itemvalue="Application.anagram" />
+      <item itemvalue="Application.SimpleEditor" />
+      <item itemvalue="Application.EmployeeMain" />
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.ShapeTester" />
       <item itemvalue="JUnit.illegalChoice" />
@@ -264,7 +293,9 @@
       <workItem from="1709230864699" duration="2054000" />
       <workItem from="1709232957538" duration="63000" />
       <workItem from="1709233049729" duration="28000" />
-      <workItem from="1709233100994" duration="1163000" />
+      <workItem from="1709233100994" duration="1249000" />
+      <workItem from="1709506880085" duration="6541000" />
+      <workItem from="1710296586982" duration="9592000" />
     </task>
     <servers />
   </component>
