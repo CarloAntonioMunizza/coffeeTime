@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e64b0049-cf5d-41dd-8ef1-699f043477b1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coffeeTime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coffeeTime.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/HW3/MorseCode_Translator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/HW3/MorseCode_Translator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/HW3/SimpleEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/HW3/SimpleEditor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/Lab3/Lab5.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,7 @@
       <recent name="Homework.HW2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab6">
+  <component name="RunManager" selected="Application.Queue">
     <configuration name="Assignment10" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Homework.Assignment10" />
       <module name="coffeeTime" />
@@ -90,6 +86,13 @@
     </configuration>
     <configuration name="Lab8" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Labs.Lab8.Main" />
+      <module name="coffeeTime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queue" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Homework.HW6.Main" />
       <module name="coffeeTime" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -181,6 +184,7 @@
       <item itemvalue="Application.Assignment10" />
       <item itemvalue="Application.main" />
       <item itemvalue="Application.Lab6" />
+      <item itemvalue="Application.Queue" />
       <item itemvalue="JUnit.ShapeTester" />
       <item itemvalue="JUnit.illegalChoice" />
       <item itemvalue="JUnit.illegalWidth" />
@@ -236,7 +240,7 @@
       <workItem from="1712028809746" duration="5491000" />
       <workItem from="1712109444553" duration="62000" />
       <workItem from="1712116706099" duration="3178000" />
-      <workItem from="1712194628668" duration="3698000" />
+      <workItem from="1712194628668" duration="7821000" />
     </task>
     <servers />
   </component>
