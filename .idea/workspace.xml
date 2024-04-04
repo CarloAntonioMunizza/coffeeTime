@@ -69,9 +69,16 @@
       <recent name="Homework.HW2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Queue">
+  <component name="RunManager" selected="Application.File">
     <configuration name="Assignment10" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Homework.Assignment10" />
+      <module name="coffeeTime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="File" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Labs.Lab10.Main" />
       <module name="coffeeTime" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -185,6 +192,7 @@
       <item itemvalue="Application.main" />
       <item itemvalue="Application.Lab6" />
       <item itemvalue="Application.Queue" />
+      <item itemvalue="Application.File" />
       <item itemvalue="JUnit.ShapeTester" />
       <item itemvalue="JUnit.illegalChoice" />
       <item itemvalue="JUnit.illegalWidth" />
@@ -240,7 +248,8 @@
       <workItem from="1712028809746" duration="5491000" />
       <workItem from="1712109444553" duration="62000" />
       <workItem from="1712116706099" duration="3178000" />
-      <workItem from="1712194628668" duration="7821000" />
+      <workItem from="1712194628668" duration="9414000" />
+      <workItem from="1712251663243" duration="1270000" />
     </task>
     <servers />
   </component>
