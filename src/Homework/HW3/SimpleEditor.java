@@ -37,7 +37,7 @@ import java.util.Scanner;
  	Print the final text to the console.
  	Exit the program.
 
- main
+ temp.main
  	Create a new SimpleEditor object and call the startEditing method.
 
 */

@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e64b0049-cf5d-41dd-8ef1-699f043477b1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeeTime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coffeeTime.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/HW3/MorseCode_Translator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/HW3/MorseCode_Translator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/HW3/SimpleEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/HW3/SimpleEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Lab3/Lab5.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -47,8 +52,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/db-derby-10.17.1.0-bin" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -58,6 +64,7 @@
       <recent name="Homework.HW2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anthraxlemonaid\SWENG311\src\Labs\Lab6" />
       <recent name="C:\Users\Anthraxlemonaid\SWENG311\src\Labs\Lab1\Lab1" />
       <recent name="C:\Users\cam7134\IdeaProjects\coffeeTime\src\Lab1" />
     </key>
@@ -66,106 +73,37 @@
       <recent name="Homework.HW2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeMain">
-    <configuration name="ArrowTest" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Homework.HW2.Tests.Tester" />
+  <component name="RunManager" selected="Application.Lab6">
+    <configuration name="Assignment10" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Homework.Assignment10" />
       <module name="coffeeTime" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dealership" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Labs.Lab3.Dealership" />
+    <configuration name="Lab6" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Labs.Lab6.Main" />
       <module name="coffeeTime" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dealership" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Labs.Lab3.Dealership" />
+    <configuration name="Lab8" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Labs.Lab8.Main" />
       <module name="coffeeTime" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Diamond" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Homework.HW1.Diamond" />
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Labs.Lab9.Main" />
       <module name="coffeeTime" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeMain" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Homework.HW4.Main" />
-      <module name="coffeeTime" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Funnel" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Homework.HW1.Funnel" />
-      <module name="coffeeTime" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab7" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Labs.Lab7.Main" />
-      <module name="coffeeTime" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Labs.Lab7.Main" />
-      <module name="coffeeTime" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Labs.Lab7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Morse" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Homework.HW3.MorseCode_Translator" />
-      <module name="coffeeTime" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Labs.Lab4.Palindrome" />
-      <module name="coffeeTime" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShapeMain" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Homework.HW2.Shape.unit.ShapeMain" />
-      <module name="coffeeTime" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleEditor" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Homework.HW3.SimpleEditor" />
-      <module name="coffeeTime" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringBuilder" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Labs.Lab4.BuilderDemo" />
-      <module name="coffeeTime" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="anagram" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Homework.HW3.Anagram" />
+    <configuration name="practice" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Homework.Practice.Main" />
       <module name="coffeeTime" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -238,19 +176,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ShapeMain" />
-      <item itemvalue="Application.Funnel" />
-      <item itemvalue="Application.Diamond" />
-      <item itemvalue="Application.ArrowTest" />
-      <item itemvalue="Application.Palindrome" />
-      <item itemvalue="Application.StringBuilder" />
-      <item itemvalue="Application.Dealership" />
-      <item itemvalue="Application.Lab7" />
-      <item itemvalue="Application.Morse" />
-      <item itemvalue="Application.anagram" />
-      <item itemvalue="Application.SimpleEditor" />
-      <item itemvalue="Application.EmployeeMain" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.practice" />
+      <item itemvalue="Application.Lab8" />
+      <item itemvalue="Application.Assignment10" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.Lab6" />
       <item itemvalue="JUnit.ShapeTester" />
       <item itemvalue="JUnit.illegalChoice" />
       <item itemvalue="JUnit.illegalWidth" />
@@ -260,8 +190,6 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Dealership" />
         <item itemvalue="JUnit.EvenNumTester" />
       </list>
     </recent_temporary>
@@ -296,6 +224,19 @@
       <workItem from="1709233100994" duration="1249000" />
       <workItem from="1709506880085" duration="6541000" />
       <workItem from="1710296586982" duration="9592000" />
+      <workItem from="1710306953569" duration="284000" />
+      <workItem from="1710360248658" duration="688000" />
+      <workItem from="1710385772273" duration="8224000" />
+      <workItem from="1710448993121" duration="758000" />
+      <workItem from="1710734666837" duration="4397000" />
+      <workItem from="1710769295526" duration="5062000" />
+      <workItem from="1711070028348" duration="3886000" />
+      <workItem from="1711425080519" duration="4281000" />
+      <workItem from="1712028073866" duration="702000" />
+      <workItem from="1712028809746" duration="5491000" />
+      <workItem from="1712109444553" duration="62000" />
+      <workItem from="1712116706099" duration="3178000" />
+      <workItem from="1712194628668" duration="3698000" />
     </task>
     <servers />
   </component>

@@ -38,5 +38,22 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/db-derby-10.17.1.0-bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/db-derby-10.17.1.0-bin/demo/programs" />
+          <root url="file://$MODULE_DIR$/db-derby-10.17.1.0-bin/demo/programs/scores/java/client" />
+          <root url="file://$MODULE_DIR$/db-derby-10.17.1.0-bin/demo/programs/scores/java/common" />
+          <root url="file://$MODULE_DIR$/db-derby-10.17.1.0-bin/demo/programs/scores/java/server" />
+          <root url="file://$MODULE_DIR$/db-derby-10.17.1.0-bin/demo/programs/simple" />
+          <root url="file://$MODULE_DIR$/db-derby-10.17.1.0-bin/demo/programs/vtis/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="db-derby-10.17.1" level="project" />
   </component>
 </module>

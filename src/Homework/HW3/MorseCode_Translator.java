@@ -28,7 +28,7 @@ import java.util.Map;
 			append the english character to the StringBuilder
 		return the StringBuilder as a string
 
-	main method
+	temp.main method
 		create a new Scanner
 		while true
 			prompt the user to enter a word or sentence to translate to Morse code
