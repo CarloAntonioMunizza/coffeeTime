@@ -25,18 +25,22 @@ public class Main {
 
 		try { // Push 5 values to the stack
 			stack.push(1);
+			System.out.println("Pushed 1");
 			stack.push(2);
+			System.out.println("Pushed 2");
 			stack.push(3);
+			System.out.println("Pushed 3");
 			stack.push(4);
+			System.out.println("Pushed 4");
 			stack.push(5);
+			System.out.println("Pushed 5");
 			stack.push(6);
+			System.out.println("Pushed 6");
 		} catch (Stack.fullStackException e) { // catch fullStackException
 			System.out.println(e.getMessage()); // print the message
 		}
 
 		try { // Pop 5 values from the stack
-			System.out.println(stack.pop());
-			System.out.println(stack.pop());
 			System.out.println(stack.pop());
 			System.out.println(stack.pop());
 			System.out.println(stack.pop());
